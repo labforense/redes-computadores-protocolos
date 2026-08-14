@@ -121,6 +121,14 @@ Ao final deste estudo, você será capaz de:
 - troubleshooting
 - análise de tráfego
 - diagnóstico real de falhas
+- leitura de fluxos HTTP, DNS e TCP
+
+### Nível 6 — Diagnóstico profissional
+
+- inspeção de pacotes em contexto real
+- diferenciação entre falhas de DNS, roteamento e aplicação
+- análise de retransmissão e timeout
+- interpretação de respostas HTTP/TLS em ambiente real
 
 ---
 
@@ -174,14 +182,19 @@ O Wireshark é a ferramenta que permite ver a rede como ela realmente funciona. 
 │   ├── osi-tcpip.md
 │   ├── protocolos.md
 │   ├── wireshark.md
-│   └── analogias-e-mapas.md
+│   ├── wireshark-e-troubleshooting.md
+│   ├── handshakes-e-fluxos.md
+│   ├── analogias-e-mapas.md
+│   └── (módulos adicionais em evolução)
 ├── labs/
 │   ├── README.md
 │   ├── laboratorio-01-osi.md
 │   ├── laboratorio-02-ip-tcp-udp.md
 │   ├── laboratorio-03-dns-http.md
 │   ├── laboratorio-04-wireshark.md
-│   └── laboratorio-05-troubleshooting.md
+│   ├── laboratorio-05-troubleshooting.md
+│   ├── laboratorio-06-wireshark-troubleshooting.md
+│   └── exercicios-praticos.md
 ├── resources/
 │   ├── glossario.md
 │   ├── comandos.md

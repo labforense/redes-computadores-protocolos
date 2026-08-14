@@ -57,14 +57,25 @@ Este roadmap organiza o estudo de redes de computadores e protocolos em uma sequ
 - Captura e filtros
 - Diagnóstico de pacotes
 - Troubleshooting real
+- Handshakes e fluxos reais
 
-## Fase 6: Diagnóstico e segurança
+## Fase 6: Diagnóstico profissional
+
+### Tópicos
+- Diagnóstico de DNS, TCP e HTTP
+- Falhas de roteamento e portas
+- Retransmissão e timeout
+- Interpretação de respostas e logs
+- Análise de fluxo com Wireshark
+
+## Fase 7: Segurança e redes corporativas
 
 ### Tópicos
 - Ping e traceroute
 - Firewall e NAT
 - TLS/SSL
 - Segurança de rede
+- Redes locais e infraestrutura real
 
 ## Exercícios sugeridos
 

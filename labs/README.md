@@ -9,7 +9,9 @@ Esta pasta reúne atividades práticas para complementar a teoria.
 - Laboratório 03: DNS e HTTP
 - Laboratório 04: Wireshark
 - Laboratório 05: Troubleshooting
+- Laboratório 06: Wireshark e troubleshooting
+- Exercícios práticos: fluxos reais e análise de comunicação
 
 ## Objetivo
 
-Aplicar o conteúdo teórico em cenários reais de rede e comunicação.
+Aplicar o conteúdo teórico em cenários reais de rede e comunicação, incluindo diagnóstico de pacotes, resolução de falhas e leitura de protocolos em contexto real.
