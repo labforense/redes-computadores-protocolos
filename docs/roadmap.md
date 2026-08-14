@@ -68,13 +68,25 @@ Este roadmap organiza o estudo de redes de computadores e protocolos em uma sequ
 - Interpretação de respostas e logs
 - Análise de fluxo com Wireshark
 
-## Fase 7: Segurança e redes corporativas
+## Fase 7: Segurança de redes
 
 ### Tópicos
+- Confidencialidade, integridade e autenticação
+- Criptografia simétrica e assimétrica
+- Certificados digitais e validação
+- TLS/SSL/HTTPS em profundidade
+- Handshake TLS 1.2 e 1.3
+- Ataques comuns e prevenção
+
+## Fase 8: Controle de acesso e infraestrutura
+
+### Tópicos
+- Firewalls e regras de acesso
+- NAT (Network Address Translation)
+- PAT (Port Address Translation)
+- ACL (Access Control Lists)
+- Segurança em redes corporativas
 - Ping e traceroute
-- Firewall e NAT
-- TLS/SSL
-- Segurança de rede
 - Redes locais e infraestrutura real
 
 ## Exercícios sugeridos

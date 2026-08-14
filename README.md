@@ -130,6 +130,14 @@ Ao final deste estudo, você será capaz de:
 - análise de retransmissão e timeout
 - interpretação de respostas HTTP/TLS em ambiente real
 
+### Nível 7 — Segurança de redes
+
+- confidencialidade, integridade e autenticação
+- TLS/SSL e HTTPS em profundidade
+- certificados digitais e validação
+- firewalls e controle de acesso
+- NAT e tradução de endereços
+
 ---
 
 ## Tabela rápida: o que cada camada faz
@@ -185,6 +193,9 @@ O Wireshark é a ferramenta que permite ver a rede como ela realmente funciona. 
 │   ├── wireshark-e-troubleshooting.md
 │   ├── handshakes-e-fluxos.md
 │   ├── analogias-e-mapas.md
+│   ├── seguranca-redes.md
+│   ├── firewall-nat-acl.md
+│   ├── tls-ssl-https.md
 │   └── (módulos adicionais em evolução)
 ├── labs/
 │   ├── README.md
@@ -194,6 +205,8 @@ O Wireshark é a ferramenta que permite ver a rede como ela realmente funciona. 
 │   ├── laboratorio-04-wireshark.md
 │   ├── laboratorio-05-troubleshooting.md
 │   ├── laboratorio-06-wireshark-troubleshooting.md
+│   ├── laboratorio-07-firewall.md
+│   ├── laboratorio-08-tls-https.md
 │   └── exercicios-praticos.md
 ├── resources/
 │   ├── glossario.md
@@ -229,6 +242,12 @@ O Wireshark é a ferramenta que permite ver a rede como ela realmente funciona. 
 - [ ] capturei tráfego com Wireshark
 - [ ] diagnosei um problema de rede
 - [ ] consigo explicar o fluxo da comunicação
+- [ ] entendo os pilares de segurança (confidencialidade, integridade, autenticação)
+- [ ] entendo como TLS/HTTPS funciona
+- [ ] consigo validar certificados digitais
+- [ ] consigo configurar regras de firewall
+- [ ] entendo NAT, PAT e ACL
+- [ ] consigo diagnosticar problemas de segurança
 
 ---
 
