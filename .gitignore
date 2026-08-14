@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
+
+# Temporary files
+*.log
