@@ -138,6 +138,30 @@ Ao final deste estudo, você será capaz de:
 - firewalls e controle de acesso
 - NAT e tradução de endereços
 
+### Nível 8 — Infraestrutura corporativa
+
+- VLANs e spanning tree
+- roteamento dinâmico (OSPF, BGP)
+- redundância e failover automático
+- QoS e priorização de tráfego
+- segmentação de rede
+
+### Nível 9 — Monitoramento e operações
+
+- SNMP e coleta de métricas
+- Syslog e logs centralizados
+- NetFlow e análise de tráfego
+- alertas e escalação
+- disaster recovery
+
+### Nível 10 — Resposta a ameaças
+
+- IDS/IPS e detecção
+- anomalias e padrões de ataque
+- malware e propagação
+- DDoS e defesa
+- investigação forense
+
 ---
 
 ## Tabela rápida: o que cada camada faz
@@ -196,7 +220,9 @@ O Wireshark é a ferramenta que permite ver a rede como ela realmente funciona. 
 │   ├── seguranca-redes.md
 │   ├── firewall-nat-acl.md
 │   ├── tls-ssl-https.md
-│   └── (módulos adicionais em evolução)
+│   ├── redes-corporativas.md
+│   ├── monitoramento-corporativo.md
+│   └── ciberseguranca-redes.md
 ├── labs/
 │   ├── README.md
 │   ├── laboratorio-01-osi.md
@@ -207,6 +233,9 @@ O Wireshark é a ferramenta que permite ver a rede como ela realmente funciona. 
 │   ├── laboratorio-06-wireshark-troubleshooting.md
 │   ├── laboratorio-07-firewall.md
 │   ├── laboratorio-08-tls-https.md
+│   ├── laboratorio-09-redes-corporativas.md
+│   ├── laboratorio-10-monitoramento.md
+│   ├── laboratorio-11-ids-ataques.md
 │   └── exercicios-praticos.md
 ├── resources/
 │   ├── glossario.md
@@ -233,21 +262,44 @@ O Wireshark é a ferramenta que permite ver a rede como ela realmente funciona. 
 
 ## Checklist de aprendizagem
 
+**Fundamentos:**
 - [ ] entendi o modelo OSI
 - [ ] entendi o modelo TCP/IP
 - [ ] entendi IP e roteamento
 - [ ] entendi TCP e UDP
+
+**Protocolos e análise:**
 - [ ] entendi DNS e HTTP/HTTPS
 - [ ] entendi SSH, FTP, SMB e SMTP
 - [ ] capturei tráfego com Wireshark
 - [ ] diagnosei um problema de rede
-- [ ] consigo explicar o fluxo da comunicação
+
+**Segurança:**
 - [ ] entendo os pilares de segurança (confidencialidade, integridade, autenticação)
 - [ ] entendo como TLS/HTTPS funciona
 - [ ] consigo validar certificados digitais
 - [ ] consigo configurar regras de firewall
 - [ ] entendo NAT, PAT e ACL
 - [ ] consigo diagnosticar problemas de segurança
+
+**Infraestrutura corporativa:**
+- [ ] consigo projetar VLANs
+- [ ] entendo spanning tree e redundância
+- [ ] entendo roteamento dinâmico
+- [ ] consigo configurar QoS
+
+**Operações e monitoramento:**
+- [ ] consigo configurar SNMP
+- [ ] entendo syslog e logs centralizados
+- [ ] consigo criar alertas efetivos
+- [ ] consigo responder a incidentes
+- [ ] consigo detectar ataques
+- [ ] consigo investigar com Wireshark
+
+**Meta final:**
+- [ ] consigo explicar o fluxo da comunicação
+- [ ] consigo projetar uma rede corporativa segura
+- [ ] consigo monitorar e responder a problemas
 
 ---
 

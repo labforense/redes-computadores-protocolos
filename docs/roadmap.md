@@ -89,6 +89,37 @@ Este roadmap organiza o estudo de redes de computadores e protocolos em uma sequ
 - Ping e traceroute
 - Redes locais e infraestrutura real
 
+## Fase 9: Redes corporativas
+
+### Tópicos
+- VLAN e segmentação lógica
+- Spanning Tree Protocol (STP)
+- Roteamento dinâmico (OSPF, BGP)
+- Redundância e failover automático
+- QoS e priorização de tráfego
+- Design de rede escalável
+
+## Fase 10: Monitoramento e operações
+
+### Tópicos
+- SNMP e coleta de métricas
+- Syslog e logs centralizados
+- NetFlow e análise de tráfego
+- Alertas e notificações
+- Change management
+- Disaster recovery e backup
+
+## Fase 11: Cibersegurança avançada
+
+### Tópicos
+- IDS/IPS (Intrusion Detection/Prevention)
+- Detecção de anomalias
+- WAF (Web Application Firewall)
+- Malware e propagação
+- DDoS e defesa
+- Investigação forense
+- Plano de resposta a incidentes
+
 ## Exercícios sugeridos
 
 - Descreva o caminho de um pacote HTTP
